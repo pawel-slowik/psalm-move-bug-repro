@@ -3,7 +3,8 @@
         "vimeo/psalm": "^4.3"
     },
     "require": {
-        "laminas/laminas-text": "^2.8"
+        "laminas/laminas-text": "^2.8",
+        "symfony/polyfill-mbstring": "v1.20.0"
     },
     "autoload": {
         "psr-4": {
