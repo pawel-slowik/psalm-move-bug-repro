@@ -1,0 +1,13 @@
+{
+    "require-dev": {
+        "vimeo/psalm": "^4.3"
+    },
+    "require": {
+        "laminas/laminas-text": "^2.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "src/MyApp/"
+        }
+    }
+}
